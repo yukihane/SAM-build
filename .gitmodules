@@ -10,3 +10,6 @@
 [submodule "ssc"]
 	path = ssc
 	url = https://github.com/NatLabRockies/ssc.git
+[submodule "wxWidgets"]
+	path = wxWidgets
+	url = https://github.com/wxWidgets/wxWidgets.git
